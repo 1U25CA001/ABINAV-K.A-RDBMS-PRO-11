@@ -1,4 +1,3 @@
-
 USE CollegeDB;
 CREATE VIEW StudentDetails AS
 SELECT
