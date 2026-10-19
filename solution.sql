@@ -1,5 +1,4 @@
--- Lab Program 11
--- Create the StudentDetails view.
+
 USE CollegeDB;
 CREATE VIEW StudentDetails AS
 SELECT
